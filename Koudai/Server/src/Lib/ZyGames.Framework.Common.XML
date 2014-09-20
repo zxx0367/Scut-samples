@@ -258,11 +258,6 @@
             
             </summary>
         </member>
-        <member name="P:ZyGames.Framework.Common.Event.NotifyEventArgs.Interrupt">
-            <summary>
-            Whether to interrupt
-            </summary>
-        </member>
         <member name="P:ZyGames.Framework.Common.Event.NotifyEventArgs.Target">
             <summary>
             User object
